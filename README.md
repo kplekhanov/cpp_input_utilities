@@ -10,4 +10,4 @@ parameter33 = value32 <br/>
 parameter33 = value33 <br/>
 ... <br/>
 } <br/>
-**All the credits go to https://github.com/ITensor/ITensor from where it has been taken <br/>**
+**A huge part of the code has been taken from https://github.com/ITensor/ITensor <br/>**
